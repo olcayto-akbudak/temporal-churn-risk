@@ -1,0 +1,7 @@
+[project]
+name = "temporal-churn-risk"
+version = "0.1.0"
+description = "Zamansal Müşteri Risk Modeli"
+requires-python = ">=3.12"
+[tool.ruff]
+line-length = 120

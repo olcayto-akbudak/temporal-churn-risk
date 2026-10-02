@@ -1,0 +1,13 @@
+test_deterministic (test_core.CoreTests.test_deterministic) ... ok
+test_future_label_excluded (test_core.CoreTests.test_future_label_excluded) ... ok
+test_holdout_leakage (test_core.CoreTests.test_holdout_leakage) ... ok
+test_nonfinite_training (test_core.CoreTests.test_nonfinite_training) ... ok
+test_one_class (test_core.CoreTests.test_one_class) ... ok
+test_probability (test_core.CoreTests.test_probability) ... ok
+test_shape (test_core.CoreTests.test_shape) ... ok
+test_training_cutoff (test_core.CoreTests.test_training_cutoff) ... ok
+
+----------------------------------------------------------------------
+Ran 8 tests in 0.225s
+
+OK
